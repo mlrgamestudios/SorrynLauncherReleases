@@ -1,10 +1,8 @@
 # Sorryn Launcher — Releases
 
-Downloads for [Sorryn Launcher](https://github.com/mlrgamestudios/SorrynLauncher).
-
 **[Get the latest release →](https://github.com/mlrgamestudios/sorryn-releases/releases/latest)**
 
-This repository holds only downloads and update manifests. Each release also
+This repository downloads and update manifests. Each release also
 carries a `-source.tar.gz` archive of the source it was built from, as required
 by the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
