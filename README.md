@@ -1,9 +1,10 @@
-# Sorryn Launcher — Releases
+# Sorryn Launcher
 
-**[Get the latest release →](https://github.com/mlrgamestudios/sorryn-releases/releases/latest)**
+Download the latest version here:
+https://github.com/mlrgamestudios/SorrynLauncherReleases/releases/latest
 
-This repository downloads and update manifests. Each release also
-carries a `-source.tar.gz` archive of the source it was built from, as required
-by the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+On Windows, download the file ending in `x64-setup.exe` and run it. After that the launcher updates itself.
 
-*Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.*
+Each release also has the source code it was built from (`-source.tar.gz`). The GPL-3.0 license requires that.
+
+Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
